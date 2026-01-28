@@ -98,4 +98,7 @@ This primitive layer does NOT claim:
 
 ---
 
-**END OF README**
+## Related
+
+- [comparative-grammar-gpt-vs-claude](https://github.com/whmatrix/comparative-grammar-gpt-vs-claude) — Source grammar comparison from which these primitives are derived
+- [interaction-mechanics-index](https://github.com/whmatrix/interaction-mechanics-index) — Queryable FAISS index using these primitives for structural retrieval
