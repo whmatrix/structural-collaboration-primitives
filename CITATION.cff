@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research in academic work, please cite as below."
+authors:
+  - family-names: "Matrix"
+    given-names: "Wade"
+title: "Structural Collaboration Primitives for Human-AI Dialogue"
+version: 1.0.0
+date-released: 2026-01-24
+url: "https://github.com/whmatrix/structural-collaboration-primitives"
+type: software
+keywords:
+  - interaction-primitives
+  - dialogue-structure
+  - human-ai-collaboration
+license: MIT
