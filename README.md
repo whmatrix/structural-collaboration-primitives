@@ -1,3 +1,5 @@
+> **Author:** John Mitchell (@whmatrix)
+
 # Structural Collaboration Primitives
 
 **Generated:** 2025-01-23
