@@ -20,19 +20,14 @@ Primitives are structural transforms observable in dialogue exchange patterns—
 
 ### Comparative Grammar Layer
 
-```
-~/professional_clear/comparative-grammar-gpt-vs-claude/
-├── comparative_grammar_matrix.md
-├── type_crosswalk_table.md
-└── README.md
-```
+See [comparative-grammar-gpt-vs-claude](https://github.com/whmatrix/comparative-grammar-gpt-vs-claude):
+- `comparative_grammar_matrix.md`
+- `type_crosswalk_table.md`
 
 ### Source Typologies
 
-```
-GPT:    ~/professional_clear/portfolio_indexing_projects/human-ai-dialogue-artifacts/segment_typology_map.md
-Claude: ~/professional_clear/research-corpus-v2-old-claude/segment_typology_map.md
-```
+- GPT: `segment_typology_map.md` from the GPT corpus (v1)
+- Claude: `segment_typology_map.md` from the Claude corpus (v2)
 
 ---
 
